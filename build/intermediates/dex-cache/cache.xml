@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/533a1156011821df54b4440c5f37136282305384/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d18e77c20cfc58a12b69f61d1ada875c5dea2ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/533a1156011821df54b4440c5f37136282305384/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_d18e77c20cfc58a12b69f61d1ada875c5dea2ba3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a13b3e27b0e1ae58607dafdb82f2c7f763c0dcf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d226bb65804bc5f6d5cf34067c6e78b5888a14f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a13b3e27b0e1ae58607dafdb82f2c7f763c0dcf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_d226bb65804bc5f6d5cf34067c6e78b5888a14f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f8c5dd41eb46ac56604a3b6090457ebdb2534d17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_b2950153cd4f2d1e8ac952b16136e2ad532fe9db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f8c5dd41eb46ac56604a3b6090457ebdb2534d17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2950153cd4f2d1e8ac952b16136e2ad532fe9db/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/4ad233a8a9065b4ce2de4d0a45f704f8b873e4c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_2ec3535ecf9d18aaa8cce247c0f8d4af25405820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/6290a842d1fa3d5236fc9181f5a7967bdf8e786b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_aa973d396ccf9f321ea43a6b51cc714d96724c81.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4ad233a8a9065b4ce2de4d0a45f704f8b873e4c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ec3535ecf9d18aaa8cce247c0f8d4af25405820/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6290a842d1fa3d5236fc9181f5a7967bdf8e786b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa973d396ccf9f321ea43a6b51cc714d96724c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3a35bf487e0042a9064b2f5c5fdbeac55cf4a0b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_27beb511ee4b46b168f098a8d9e405d5fdba48db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/20df227e32f35055acc735f77dc15eaf74a827d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_f98b5d461ba89c4e1f8e24b9c1bd45c523fdcb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/11deebfbb8dd6090344bbb92f493aa200888e351/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_0b866cb41838cf3b018f9cf052e58800c36a58d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/20df227e32f35055acc735f77dc15eaf74a827d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f98b5d461ba89c4e1f8e24b9c1bd45c523fdcb28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a44a72bbf31e97d00c165eb05ab5707076d21726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e36acbed8b68c6ac8d86b8ee3c6a466e8fcf801f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b556d19ddb3c8208a73135e36e28acaf78ece521/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91c186283c3b90922de087347cddd3fe74eff497">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_07c06bb2a976d9e3a37d82dcf7db697bfb96813d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/11deebfbb8dd6090344bbb92f493aa200888e351/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b866cb41838cf3b018f9cf052e58800c36a58d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e36acbed8b68c6ac8d86b8ee3c6a466e8fcf801f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_b556d19ddb3c8208a73135e36e28acaf78ece521.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3a35bf487e0042a9064b2f5c5fdbeac55cf4a0b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27beb511ee4b46b168f098a8d9e405d5fdba48db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/79de7a6ad894797ca2f8beba99c40621c5e911d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b09e790a3774813c2f35b9a16e8d7c27aad44f33/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/79de7a6ad894797ca2f8beba99c40621c5e911d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/elitebook/Documents/AndroidProjects/QuickFlashlight/app/build/intermediates/pre-dexed/release/classes_b09e790a3774813c2f35b9a16e8d7c27aad44f33.jar" />
+    </item>
+
+</items>
